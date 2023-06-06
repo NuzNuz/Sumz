@@ -13,37 +13,15 @@ SwiftSum is a cutting-edge web application that leverages the capabilities of Op
 
 1. Enter the URL of the article in the input field
 2. Click on "Summarize"
-3. Wait for a few seconds as SwiftSum generates a summary of the article
+3. Wait for a few seconds as SwiftSum generates a summary of the article*
 4. Read the generated summary
 
-## Installation
+*Depending on the structure of the article, SwiftSum sometimes fails to access the content and therefore will not summarize. I am looking for a solution to this, but please feel free to try another article
+Also, I am using a free version of the API, where I am restricted to 50 calls per month. This may also cause the application to fail if the maximum calls are met.
 
-1. Clone this repository to your local machine using `https://github.com/YourUsername/SwiftSum.git`.
-2. Navigate to the project directory: `cd SwiftSum`.
-3. Install the required dependencies with `npm install`.
-4. Run the application in development mode with `npm start`.
-5. Open your web browser and visit `http://localhost:3000`.
 
-## Prerequisites
 
-Before you begin, ensure you have met the following requirements:
 
-- You have installed the latest version of Node.js and npm.
-- You have a Windows/Linux/Mac machine.
-
-## Contributing
-
-If you want to contribute to SwiftSum, follow these steps:
-
-1. Fork this repository.
-2. Create a branch: `git checkout -b <branch_name>`.
-3. Make your changes and commit them: `git commit -m '<commit_message>'`
-4. Push to the original branch: `git push origin <project_name>/<location>`
-5. Create the pull request.
-
-## Contact
-
-If you want to contact the maintainers, feel free to reach out at `swiftsum@support.com`
 
 ## License
 

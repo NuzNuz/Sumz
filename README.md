@@ -8,7 +8,7 @@ SwiftSum is a cutting-edge web application that leverages the capabilities of Op
 - Article summarization: SwiftSum leverages the text generation capabilities of OpenAI's GPT-4 to provide quick and high-quality summaries of the articles.
 - Easy-to-use interface: The interface, built with React.js and Tailwind CSS, is designed to be clean, intuitive, and user-friendly.
 - RapidAPI integration: SwiftSum uses RapidAPI for a seamless and efficient connection to the OpenAI's GPT-4 API.
-- Summary History: SwiftSum saves your sumaries to your device, so you can revisit the website and look at your previous summaries without having to resummarize the articles.
+- Summary History: SwiftSum saves your summaries to your device, so you can revisit the website and look at your previous summaries without having to resummarize the articles.
 
 ## How To Use
 
